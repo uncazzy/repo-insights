@@ -2,6 +2,8 @@
 
 Zero-config git repository analytics. Run in any repo to get a beautiful, self-contained HTML report with charts covering commits, code growth, contributors, AI contributions, work patterns, tests, and dependencies.
 
+![repo-insights report](repo-insight.png)
+
 ## Usage
 
 ```bash
