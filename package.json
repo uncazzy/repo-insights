@@ -1,0 +1,38 @@
+{
+  "name": "repo-insights",
+  "version": "1.0.0",
+  "description": "Zero-config git repository analytics. Run in any repo to get a beautiful HTML report.",
+  "type": "module",
+  "bin": {
+    "repo-insights": "bin/repo-insights.mjs"
+  },
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "keywords": [
+    "git",
+    "analytics",
+    "repository",
+    "insights",
+    "report",
+    "statistics",
+    "html",
+    "visualization",
+    "contributors",
+    "commits"
+  ],
+  "author": "uncazzy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncazzy/repo-insights.git"
+  },
+  "homepage": "https://github.com/uncazzy/repo-insights#readme",
+  "bugs": {
+    "url": "https://github.com/uncazzy/repo-insights/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
