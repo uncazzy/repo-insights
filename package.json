@@ -1,6 +1,6 @@
 {
   "name": "repo-insights",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Zero-config git repository analytics. Run in any repo to get a beautiful HTML report.",
   "type": "module",
   "bin": {
